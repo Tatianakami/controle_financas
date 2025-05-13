@@ -2,7 +2,7 @@ Controle de Finanças Pessoais
 Descrição
 O Controle de Finanças Pessoais é um sistema simples para gerenciar transações financeiras, desenvolvido em PHP e MySQL. Ele permite aos usuários adicionar, editar e excluir receitas e despesas, além de visualizar o saldo atual e controlar o histórico financeiro de forma eficiente. É um sistema ideal para quem deseja acompanhar suas finanças pessoais de maneira simples e prática.
 
-
+<img src="image/php.png" alt="Formulário" width="600">
 
 Funcionalidades
 Cadastro de Transações: Registre receitas e despesas com descrição, valor e data.
